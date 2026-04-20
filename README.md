@@ -10,6 +10,9 @@ Assests to use -
      2. Continous move provider
      3. Continous turn provider
      4. Character Control driver
+ 4. Ray
+    1. XR ray interactor
+    2. XR controller (Action Based)
      
      
 **Hands -** <a>https://drive.google.com/file/d/10b39IekUdpBHlcTslZ-BlNRyH5uqPUe1/view</a>
